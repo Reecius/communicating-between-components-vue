@@ -5,6 +5,7 @@
                 <app-user></app-user>
             </div>
         </div>
+        <p>test</p>
     </div>
 </template>
 
